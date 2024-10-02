@@ -1,5 +1,4 @@
-# Dark-and-Dark-assistive-launcher-on-Mac
-Steps > Flow > Tool to assist launching Dark and Darker on Mac
+# Steps and Tools to assist launching Overwatch 2 as well as Dark and Darker on macOS
 https://x.com/usernameisjim/status/1840663239140499934
 https://open.substack.com/pub/jimsuley/p/overwatch-2-and-dark-and-darker-assistive?r=f43hg&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
 
